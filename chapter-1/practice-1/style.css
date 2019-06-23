@@ -1,0 +1,32 @@
+h1{
+    color:red;
+}
+.date{
+    font-weight: bold;
+    font-size: 2em;
+    width: 230px;
+    height: 20%;
+    background-color: rgb(173, 42, 42);
+    padding: 1em 2em 3em 4em; 
+    /* padiing 1em=atas kanan bawah kiri 
+    kalau cuman dua value atas bawah, kanan kiri*/
+    color: rgb(152, 228, 29);
+}
+/* % sama dengan setengah parent
+px tetap stabil */
+a{
+    text-decoration: none;
+}
+#tagline{
+    color: orange;
+}
+p,
+a,
+h1,
+.date{
+    margin: .5em auto;
+    border: 1px solid black;
+}
+p a{
+    font-size: 1.5em;
+}
