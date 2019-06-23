@@ -11,6 +11,8 @@ h1{
     /* padiing 1em=atas kanan bawah kiri 
     kalau cuman dua value atas bawah, kanan kiri*/
     color: rgb(152, 228, 29);
+    font-family: 'Concert One', cursive; 
+    /* ganti font */
 }
 /* % sama dengan setengah parent
 px tetap stabil */
