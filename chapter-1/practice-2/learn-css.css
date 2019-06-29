@@ -13,7 +13,8 @@ h1{
     padding: .3em 7em;
     border-radius: .2em;
 }
-
+/* pakai titik untuk class
+yang tidak pakai titik buat tag contoh ul dan h1 */
 .btn-primary {
     color: #fff;
     background-color:red;
