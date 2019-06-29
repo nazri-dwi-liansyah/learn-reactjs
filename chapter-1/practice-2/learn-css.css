@@ -1,0 +1,31 @@
+ul {
+    list-style-type: disc;
+  }
+h1{
+    font-weight: bold;
+    font-size: 2em;
+}
+.btn {
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    border: 1px solid transparent;
+    padding: .3em 7em;
+    border-radius: .2em;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color:red;
+    border-color:#b90404;
+}
+.btn-info{
+    color: rgb(93, 188, 218);
+    background-color:rgb(41, 63, 185);
+    border-color:#21105f;
+}
+.btn-danger{
+    color: rgb(245, 210, 10);
+    background-color:rgb(230, 226, 0);
+    border-color:#c09300;
+}
