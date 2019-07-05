@@ -11,9 +11,9 @@
 // let longWords = words.filter(word => word.length > 6);// memfilter jumlah karakter yang lebih dari 6 karakter
 // console.log('long words are : ', longWords);
 
-// let array1 = [1,4,9,16];
-// const newArray = array1.map(x => x *2);//Mengubah item" ke array yang baru
-// console.log('new array are: ', newArray);
+let array1 = [1,4,9,16];
+const newArray = array1.map(x => x *2);//Mengubah item" ke array yang baru
+console.log('new array are: ', newArray);
 
 // //find mencari hanya satu item
 
